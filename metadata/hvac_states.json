@@ -1,0 +1,1070 @@
+{
+  "Alabama": [
+    {
+      "site": "stegallheatingairconditioningandplumbing",
+      "name": "Stegall Heating, Air Conditioning, and Plumbing",
+      "city": "Birmingham",
+      "rating": "4.6",
+      "reviews": "134",
+      "phone": "+1 205-251-0330"
+    },
+    {
+      "site": "birminghamheatingandairconditioning",
+      "name": "Birmingham Heating and Air Conditioning",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "9",
+      "phone": "+1 659-226-4901"
+    },
+    {
+      "site": "coolrayheatingcoolingplumbingelectrical",
+      "name": "Coolray Heating, Cooling, Plumbing & Electrical",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "1801",
+      "phone": "+1 205-315-0411"
+    },
+    {
+      "site": "temperaturepro",
+      "name": "TemperaturePro",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "57",
+      "phone": "+1 205-737-3821"
+    },
+    {
+      "site": "grissombrotherservicecompanyhvac",
+      "name": "Grissom Brother Service Company HVAC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "26",
+      "phone": "+1 205-591-7787"
+    },
+    {
+      "site": "hillerplumbingheatingcoolingelectricalformerlyservicetechinc",
+      "name": "Hiller Plumbing, Heating, Cooling & Electrical (Formerly Service Tech, Inc.)",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "336",
+      "phone": "+1 205-360-4301"
+    },
+    {
+      "site": "birminghamhvacsolutions",
+      "name": "Birmingham HVAC Solutions",
+      "city": "Birmingham",
+      "rating": "3.8",
+      "reviews": "5",
+      "phone": "+1 205-666-8668"
+    },
+    {
+      "site": "hitechptacservicesalabama",
+      "name": "Hitech PTAC Services Alabama",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 334-666-2030"
+    },
+    {
+      "site": "tigermechanicalservice",
+      "name": "Tiger Mechanical Service",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "18",
+      "phone": "+1 205-258-9661"
+    },
+    {
+      "site": "birminghamhvac",
+      "name": "Birmingham HVAC",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": ""
+    },
+    {
+      "site": "birminghamheatingairconditioning",
+      "name": "Birmingham Heating & Air Conditioning",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "6",
+      "phone": "+1 205-666-8668"
+    },
+    {
+      "site": "onesourceheatingcoolingelectrical",
+      "name": "One Source Heating, Cooling & Electrical",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "411",
+      "phone": "+1 205-545-9904"
+    },
+    {
+      "site": "3dairservicesllc",
+      "name": "3D Air Services, LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "41",
+      "phone": "+1 205-224-0112"
+    },
+    {
+      "site": "skeltonsheatingcoolingplumbing",
+      "name": "Skelton's Heating, Cooling & Plumbing",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "2129",
+      "phone": "+1 205-340-8033"
+    },
+    {
+      "site": "hvachomepros",
+      "name": "HVAC Home Pros",
+      "city": "Mountain Brook",
+      "rating": "5",
+      "reviews": "39",
+      "phone": "+1 205-831-4587"
+    },
+    {
+      "site": "wilbursairconditioningheatingplumbing",
+      "name": "Wilbur's Air Conditioning, Heating & Plumbing",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "976",
+      "phone": "+1 205-396-2329"
+    },
+    {
+      "site": "airloc",
+      "name": "Airloc",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "151",
+      "phone": "+1 205-417-0160"
+    },
+    {
+      "site": "gentlebreezecoolingandheating",
+      "name": "Gentle Breeze Cooling and Heating",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "4",
+      "phone": "+1 205-862-2907"
+    },
+    {
+      "site": "simplicomfortllc",
+      "name": "SimpliComfort. LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "2",
+      "phone": "+1 205-332-9819"
+    },
+    {
+      "site": "plusoneheatingandair",
+      "name": "Plus One Heating and Air",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "60",
+      "phone": "+1 659-212-6148"
+    },
+    {
+      "site": "coolbreezeinc",
+      "name": "Cool Breeze Inc",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "205",
+      "phone": "+1 205-444-3155"
+    },
+    {
+      "site": "aireservofbirmingham",
+      "name": "Aire Serv of Birmingham",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "634",
+      "phone": "+1 205-203-9366"
+    },
+    {
+      "site": "airexperts",
+      "name": "Air Experts",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "288",
+      "phone": "+1 205-289-8510"
+    },
+    {
+      "site": "cooltechairconditioningsolutions",
+      "name": "CoolTech Air Conditioning Solutions",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "4",
+      "phone": "+1 205-533-6739"
+    },
+    {
+      "site": "topsolutionscoolingheating",
+      "name": "Top Solutions Cooling & Heating",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "4",
+      "phone": "+1 205-941-6381"
+    },
+    {
+      "site": "casperheatingandcooling",
+      "name": "Casper Heating and Cooling",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "94",
+      "phone": "+1 659-212-8622"
+    },
+    {
+      "site": "homecommercialservicesllc",
+      "name": "Home & Commercial Services, LLC",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "100",
+      "phone": "+1 205-798-0635"
+    },
+    {
+      "site": "nicksheatingandcooling",
+      "name": "Nick's Heating and Cooling",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "75",
+      "phone": "+1 205-736-7049"
+    },
+    {
+      "site": "freedomheatingcooling",
+      "name": "Freedom Heating & Cooling",
+      "city": "Birmingham",
+      "rating": "4.7",
+      "reviews": "2750",
+      "phone": "+1 205-749-0444"
+    },
+    {
+      "site": "overflowheatingcoolingllc",
+      "name": "Overflow Heating & Cooling, Llc",
+      "city": "Birmingham",
+      "rating": "4.1",
+      "reviews": "9",
+      "phone": "+1 205-936-4629"
+    },
+    {
+      "site": "skywardheatingairplumbing",
+      "name": "Skyward Heating Air Plumbing",
+      "city": "Irondale",
+      "rating": "4.8",
+      "reviews": "119",
+      "phone": "+1 205-783-5525"
+    },
+    {
+      "site": "onehourairconditioningheating",
+      "name": "One Hour Air Conditioning & Heating\u00ae",
+      "city": "Pelham",
+      "rating": "4.9",
+      "reviews": "1290",
+      "phone": "+1 659-215-5377"
+    },
+    {
+      "site": "jcsheatingandcoolingcoinc",
+      "name": "JC'S Heating and Cooling Co. Inc.",
+      "city": "Irondale",
+      "rating": "4.9",
+      "reviews": "122",
+      "phone": "+1 205-956-8651"
+    },
+    {
+      "site": "norrellserviceexperts",
+      "name": "Norrell Service Experts",
+      "city": "Irondale",
+      "rating": "4.9",
+      "reviews": "2317",
+      "phone": "+1 205-428-1111"
+    },
+    {
+      "site": "airservicesinc",
+      "name": "Air Services Inc",
+      "city": "Birmingham",
+      "rating": "4.6",
+      "reviews": "10",
+      "phone": ""
+    },
+    {
+      "site": "standardheatingcoolingplumbing",
+      "name": "Standard Heating, Cooling & Plumbing",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "1634",
+      "phone": "+1 205-377-6157"
+    },
+    {
+      "site": "ethridgeheatingandair",
+      "name": "Ethridge Heating and Air",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "739",
+      "phone": "+1 205-428-6935"
+    },
+    {
+      "site": "airtechmechanicalcontractorsllc",
+      "name": "Air Tech Mechanical Contractors LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "11",
+      "phone": "+1 205-229-0435"
+    },
+    {
+      "site": "xcaliburservices",
+      "name": "Xcalibur Services",
+      "city": "Homewood",
+      "rating": "4.9",
+      "reviews": "1219",
+      "phone": "+1 205-850-1633"
+    },
+    {
+      "site": "paradiseheatingandair",
+      "name": "Paradise Heating and Air",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "212",
+      "phone": "+1 205-326-7268"
+    },
+    {
+      "site": "aadvantageairinc",
+      "name": "A Advantage Air Inc.",
+      "city": "Birmingham",
+      "rating": "4.1",
+      "reviews": "9",
+      "phone": "+1 205-426-0093"
+    },
+    {
+      "site": "perfectserviceheatingair",
+      "name": "Perfect Service Heating & Air",
+      "city": "Trussville",
+      "rating": "4.8",
+      "reviews": "862",
+      "phone": "+1 205-453-4077"
+    },
+    {
+      "site": "douglascoolingheatingplumbingelectrical",
+      "name": "Douglas Cooling Heating Plumbing Electrical",
+      "city": "Pelham",
+      "rating": "4.8",
+      "reviews": "109",
+      "phone": "+1 205-421-3908"
+    },
+    {
+      "site": "wcwrightsoninc",
+      "name": "W.C. Wright & Son, Inc.",
+      "city": "Leeds",
+      "rating": "5",
+      "reviews": "856",
+      "phone": "+1 205-252-2408"
+    },
+    {
+      "site": "birminghamserviceexperts",
+      "name": "Birmingham Service Experts",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "77",
+      "phone": "+1 659-220-2010"
+    },
+    {
+      "site": "westernsalesservicesinc",
+      "name": "Western Sales & Services, Inc.",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "248",
+      "phone": "+1 205-787-8674"
+    },
+    {
+      "site": "jjhvacservices",
+      "name": "J & J HVAC Services",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "10",
+      "phone": "+1 205-600-5718"
+    },
+    {
+      "site": "elevenheatingandcoolingllc",
+      "name": "Eleven Heating and Cooling LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "2",
+      "phone": "+1 205-345-1111"
+    },
+    {
+      "site": "205hvacandelectrical",
+      "name": "205 HVAC and Electrical",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "4",
+      "phone": "+1 205-377-0003"
+    },
+    {
+      "site": "birminghamheatingandairservices",
+      "name": "Birmingham Heating and Air Services",
+      "city": "Birmingham",
+      "rating": "4.4",
+      "reviews": "56",
+      "phone": "+1 659-226-2989"
+    },
+    {
+      "site": "sentryheatingairconditioningplumbingelectrical",
+      "name": "Sentry Heating, Air Conditioning, Plumbing, & Electrical",
+      "city": "Vestavia Hills",
+      "rating": "4.8",
+      "reviews": "363",
+      "phone": "+1 205-235-8793"
+    },
+    {
+      "site": "fivestarcooling",
+      "name": "Five Star Cooling",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-378-1667"
+    },
+    {
+      "site": "bbheatingcooling",
+      "name": "B & B Heating & Cooling",
+      "city": "Homewood",
+      "rating": "5",
+      "reviews": "6",
+      "phone": "+1 205-567-3546"
+    },
+    {
+      "site": "hardyservices",
+      "name": "Hardy Services",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "2",
+      "phone": "+1 205-591-5678"
+    },
+    {
+      "site": "vulcanmechanicalservices",
+      "name": "Vulcan Mechanical Services",
+      "city": "Birmingham",
+      "rating": "3.9",
+      "reviews": "10",
+      "phone": "+1 205-444-9671"
+    },
+    {
+      "site": "eagleservicecompany",
+      "name": "Eagle Service Company",
+      "city": "Birmingham",
+      "rating": "4.8",
+      "reviews": "82",
+      "phone": "+1 205-251-1844"
+    },
+    {
+      "site": "birminghamheatingairconditioning",
+      "name": "Birmingham Heating & Air Conditioning",
+      "city": "Birmingham",
+      "rating": "4.3",
+      "reviews": "9",
+      "phone": "+1 659-235-3842"
+    },
+    {
+      "site": "burchcorporation",
+      "name": "Burch Corporation",
+      "city": "Birmingham",
+      "rating": "4.2",
+      "reviews": "10",
+      "phone": "+1 205-833-1293"
+    },
+    {
+      "site": "esiservices",
+      "name": "ESI Services",
+      "city": "Birmingham",
+      "rating": "4.7",
+      "reviews": "63",
+      "phone": "+1 205-905-7977"
+    },
+    {
+      "site": "affordableairconditingasap",
+      "name": "Affordable Airconditing ASAP",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 678-708-5707"
+    },
+    {
+      "site": "iveymechanicalco",
+      "name": "Ivey Mechanical Co",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-949-6000"
+    },
+    {
+      "site": "johnsoncontrolsbirminghambranchoffice",
+      "name": "Johnson Controls Birmingham Branch Office",
+      "city": "Birmingham",
+      "rating": "4.2",
+      "reviews": "5",
+      "phone": "+1 205-682-3900"
+    },
+    {
+      "site": "tsquareheatingair",
+      "name": "T Square Heating & Air",
+      "city": "Hueytown",
+      "rating": "5",
+      "reviews": "11",
+      "phone": "+1 205-830-0961"
+    },
+    {
+      "site": "prheatingcoolingsolutionsfairfield",
+      "name": "PR Heating & Cooling Solutions Fairfield",
+      "city": "Fairfield",
+      "rating": "5",
+      "reviews": "2",
+      "phone": "+1 205-303-1961"
+    },
+    {
+      "site": "ualocal91",
+      "name": "UA Local 91",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "45",
+      "phone": "+1 205-591-2721"
+    },
+    {
+      "site": "sunbeltrentalsclimatecontrol",
+      "name": "Sunbelt Rentals Climate Control",
+      "city": "Birmingham",
+      "rating": "4",
+      "reviews": "1",
+      "phone": "+1 205-815-6400"
+    },
+    {
+      "site": "zoneaircoheatingandcooling",
+      "name": "ZONEAIRCO Heating and Cooling",
+      "city": "Fairfield",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-825-6360"
+    },
+    {
+      "site": "blankenshipheatingcoolingllc",
+      "name": "Blankenship Heating & Cooling, LLC",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "50",
+      "phone": "+1 205-864-3041"
+    },
+    {
+      "site": "plusoneheatingandair",
+      "name": "Plus One Heating and Air",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "44",
+      "phone": "+1 205-289-8028"
+    },
+    {
+      "site": "engleservicesheatingairelectricalplumbing",
+      "name": "Engle Services Heating & Air - Electrical - Plumbing",
+      "city": "Birmingham",
+      "rating": "4.6",
+      "reviews": "25",
+      "phone": "+1 205-379-0888"
+    },
+    {
+      "site": "guinservicellc",
+      "name": "Guin Service, LLC",
+      "city": "Irondale",
+      "rating": "5",
+      "reviews": "1067",
+      "phone": "+1 205-825-8996"
+    },
+    {
+      "site": "emcorservicesaircond",
+      "name": "EMCOR Services Aircond",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-761-5575"
+    },
+    {
+      "site": "climatecontrolspecialists",
+      "name": "Climate Control Specialists",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "1",
+      "phone": ""
+    },
+    {
+      "site": "alabamacoolingandheating",
+      "name": "Alabama Cooling and Heating",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "47",
+      "phone": "+1 205-735-4794"
+    },
+    {
+      "site": "dawsontrueheatingcoolingllc",
+      "name": "Dawson True Heating & Cooling LLC.",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "98",
+      "phone": "+1 205-383-6639"
+    },
+    {
+      "site": "alatecheatingcooling",
+      "name": "Alatec Heating & Cooling",
+      "city": "Fultondale",
+      "rating": "4.9",
+      "reviews": "173",
+      "phone": "+1 205-841-7271"
+    },
+    {
+      "site": "pmmechanicalinc",
+      "name": "P&M Mechanical, Inc.",
+      "city": "Birmingham",
+      "rating": "4.2",
+      "reviews": "13",
+      "phone": "+1 205-925-9486"
+    },
+    {
+      "site": "alabamaairsystems",
+      "name": "Alabama Air Systems",
+      "city": "Irondale",
+      "rating": "5",
+      "reviews": "15",
+      "phone": "+1 205-833-2630"
+    },
+    {
+      "site": "irwinhvacservicesllc",
+      "name": "Irwin HVAC Services LLC",
+      "city": "Moody",
+      "rating": "4.7",
+      "reviews": "69",
+      "phone": "+1 205-656-0684"
+    },
+    {
+      "site": "shearersupplytrussville",
+      "name": "Shearer Supply Trussville",
+      "city": "Birmingham",
+      "rating": "4.3",
+      "reviews": "6",
+      "phone": "+1 205-957-0018"
+    },
+    {
+      "site": "unitedrentalspowerhvac",
+      "name": "United Rentals - Power & HVAC",
+      "city": "Birmingham",
+      "rating": "4.9",
+      "reviews": "9",
+      "phone": "+1 205-520-9108"
+    },
+    {
+      "site": "suprememaintenance",
+      "name": "Supreme Maintenance",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-552-7876"
+    },
+    {
+      "site": "qualitycheckheatingandairconditioning",
+      "name": "Quality Check Heating and Air Conditioning",
+      "city": "Irondale",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-914-1467"
+    },
+    {
+      "site": "trinitycontractors",
+      "name": "Trinity Contractors",
+      "city": "Trussville",
+      "rating": "4.1",
+      "reviews": "55",
+      "phone": "+1 205-655-5099"
+    },
+    {
+      "site": "brownheatingcoolingplumbing",
+      "name": "Brown Heating, Cooling & Plumbing",
+      "city": "Hueytown",
+      "rating": "5",
+      "reviews": "2222",
+      "phone": "+1 205-774-3335"
+    },
+    {
+      "site": "alabamacoolingheating",
+      "name": "Alabama Cooling & Heating",
+      "city": "Gardendale",
+      "rating": "4.5",
+      "reviews": "2",
+      "phone": "+1 205-991-5215"
+    },
+    {
+      "site": "wehbyplumbingheatingandcooling",
+      "name": "Wehby Plumbing Heating and Cooling",
+      "city": "Mt Olive",
+      "rating": "4.9",
+      "reviews": "28",
+      "phone": "+1 205-480-9315"
+    },
+    {
+      "site": "wadeheatingair",
+      "name": "Wade Heating & Air",
+      "city": "Bessemer",
+      "rating": "4.9",
+      "reviews": "179",
+      "phone": "+1 205-744-5351"
+    },
+    {
+      "site": "ontimeservice",
+      "name": "OnTime Service",
+      "city": "Hoover",
+      "rating": "4.9",
+      "reviews": "6512",
+      "phone": "+1 205-947-2964"
+    },
+    {
+      "site": "adamsheatingcooling",
+      "name": "Adams Heating & Cooling",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "6",
+      "phone": "+1 205-606-4222"
+    },
+    {
+      "site": "parkerandsonsheatingcoolinginc",
+      "name": "Parker And Sons Heating & Cooling Inc.",
+      "city": "Irondale",
+      "rating": "4",
+      "reviews": "24",
+      "phone": "+1 205-956-9418"
+    },
+    {
+      "site": "rileyservicesheatingcoolingllc",
+      "name": "Riley Services Heating & Cooling LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "6",
+      "phone": ""
+    },
+    {
+      "site": "aireheatingcooling",
+      "name": "Aire Heating & Cooling",
+      "city": "Birmingham",
+      "rating": "4.5",
+      "reviews": "2",
+      "phone": ""
+    },
+    {
+      "site": "polarbearservices",
+      "name": "Polar Bear Services",
+      "city": "Leeds",
+      "rating": "4.8",
+      "reviews": "152",
+      "phone": "+1 205-497-2327"
+    },
+    {
+      "site": "climatecontrolsystemsincccsi",
+      "name": "Climate Control Systems, Inc. (CCSI)",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "1",
+      "phone": "+1 844-500-9220"
+    },
+    {
+      "site": "sewellservicecompanyinc",
+      "name": "Sewell Service Company Inc.",
+      "city": "Pinson",
+      "rating": "5",
+      "reviews": "18",
+      "phone": "+1 205-680-5066"
+    },
+    {
+      "site": "absoluteair",
+      "name": "Absolute Air",
+      "city": "Leeds",
+      "rating": "4.9",
+      "reviews": "118",
+      "phone": "+1 205-699-2494"
+    },
+    {
+      "site": "capitalcomfortservices",
+      "name": "Capital Comfort Services",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "918",
+      "phone": "+1 205-444-0704"
+    },
+    {
+      "site": "alabamacontrols",
+      "name": "Alabama Controls",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "1",
+      "phone": "+1 205-327-3237"
+    },
+    {
+      "site": "maestromaintenancemanagement",
+      "name": "Maestro Maintenance Management",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "26",
+      "phone": "+1 205-293-6697"
+    },
+    {
+      "site": "hoffmanhydronics",
+      "name": "Hoffman Hydronics",
+      "city": "Birmingham",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-966-6992"
+    },
+    {
+      "site": "fullforceheatingcoolingllc",
+      "name": "Full Force Heating & Cooling LLC",
+      "city": "Trussville",
+      "rating": "5",
+      "reviews": "50",
+      "phone": "+1 205-577-1156"
+    },
+    {
+      "site": "gipsonheatingairconditioningllc",
+      "name": "Gipson Heating & Air Conditioning LLC",
+      "city": "Trussville",
+      "rating": "5",
+      "reviews": "105",
+      "phone": "+1 205-494-7366"
+    },
+    {
+      "site": "myerscomfortspecialistsofbirmingham",
+      "name": "Myers Comfort Specialists of Birmingham",
+      "city": "Pelham",
+      "rating": "4.3",
+      "reviews": "1214",
+      "phone": "+1 205-206-7735"
+    },
+    {
+      "site": "completeairservices",
+      "name": "Complete Air Services",
+      "city": "Springville",
+      "rating": "5",
+      "reviews": "6",
+      "phone": "+1 205-467-6229"
+    },
+    {
+      "site": "onesourceheatingcoolingelectrical",
+      "name": "One Source Heating, Cooling & Electrical",
+      "city": "Gardendale",
+      "rating": "5",
+      "reviews": "5",
+      "phone": "+1 205-301-8006"
+    },
+    {
+      "site": "jerryrobbinsmechanicalservices",
+      "name": "Jerry Robbins Mechanical Services",
+      "city": "Trussville",
+      "rating": "5",
+      "reviews": "5",
+      "phone": "+1 205-655-5030"
+    },
+    {
+      "site": "associatedcoolingheating",
+      "name": "Associated Cooling & Heating",
+      "city": "Trussville",
+      "rating": "3",
+      "reviews": "2",
+      "phone": "+1 205-655-9001"
+    },
+    {
+      "site": "buddysrefrigerationllc",
+      "name": "Buddy's Refrigeration LLC",
+      "city": "Pinson",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 256-683-9999"
+    },
+    {
+      "site": "broconmechanicalheatingair",
+      "name": "Brocon Mechanical Heating & Air",
+      "city": "Warrior",
+      "rating": "5",
+      "reviews": "30",
+      "phone": "+1 205-337-2827"
+    },
+    {
+      "site": "sunbeltrentalspowerhvac",
+      "name": "Sunbelt Rentals Power & HVAC",
+      "city": "Birmingham",
+      "rating": "3.7",
+      "reviews": "6",
+      "phone": "+1 205-251-2563"
+    },
+    {
+      "site": "911airllc",
+      "name": "911 Air LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "11",
+      "phone": ""
+    },
+    {
+      "site": "progressiveheatingandcoolingllc",
+      "name": "Progressive Heating And Cooling, LLC",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "5",
+      "phone": "+1 205-937-3393"
+    },
+    {
+      "site": "nicksheatingandcooling",
+      "name": "Nick's Heating and Cooling",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "7",
+      "phone": "+1 205-736-7049"
+    },
+    {
+      "site": "hooverheatingcooling",
+      "name": "Hoover Heating & Cooling",
+      "city": "Hoover",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-453-1099"
+    },
+    {
+      "site": "centralairsolutions",
+      "name": "Central Air Solutions",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "9",
+      "phone": "+1 205-305-6502"
+    },
+    {
+      "site": "rickthomasonplumbingheatingcooling",
+      "name": "Rick Thomason Plumbing, Heating & Cooling",
+      "city": "Hoover",
+      "rating": "4.2",
+      "reviews": "5",
+      "phone": "+1 205-822-0597"
+    },
+    {
+      "site": "mabrycontractinggroup",
+      "name": "Mabry Contracting Group",
+      "city": "Hoover",
+      "rating": "",
+      "reviews": "",
+      "phone": "+1 205-974-3777"
+    },
+    {
+      "site": "searsheatingandairconditioning",
+      "name": "Sears Heating and Air Conditioning",
+      "city": "Hoover",
+      "rating": "4",
+      "reviews": "47",
+      "phone": "+1 205-291-8141"
+    },
+    {
+      "site": "daikinappliedserviceandpartsstore",
+      "name": "Daikin Applied Service and Parts Store",
+      "city": "Hoover",
+      "rating": "5",
+      "reviews": "1",
+      "phone": "+1 205-989-4370"
+    },
+    {
+      "site": "homeservicesatthehomedepot",
+      "name": "Home Services at The Home Depot",
+      "city": "Birmingham",
+      "rating": "2.3",
+      "reviews": "3",
+      "phone": "+1 844-476-2140"
+    },
+    {
+      "site": "bennettsheatingandcooling",
+      "name": "Bennett's Heating and Cooling",
+      "city": "Hoover",
+      "rating": "1",
+      "reviews": "1",
+      "phone": "+1 205-319-3266"
+    },
+    {
+      "site": "comforttechnology",
+      "name": "Comfort Technology",
+      "city": "Hueytown",
+      "rating": "5",
+      "reviews": "27",
+      "phone": "+1 205-588-8118"
+    },
+    {
+      "site": "homeservicesatthehomedepot",
+      "name": "Home Services at The Home Depot",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "1",
+      "phone": "+1 844-476-2140"
+    },
+    {
+      "site": "segarsaircontrolinc",
+      "name": "Segars Air Control, Inc.",
+      "city": "Bessemer",
+      "rating": "5",
+      "reviews": "31",
+      "phone": "+1 205-565-7575"
+    },
+    {
+      "site": "optimistheatingandcoolingllc",
+      "name": "Optimist Heating and Cooling LLC",
+      "city": "Pelham",
+      "rating": "4.9",
+      "reviews": "54",
+      "phone": "+1 205-542-3204"
+    },
+    {
+      "site": "dunnshvacplumbingelectrical",
+      "name": "Dunn's HVAC, Plumbing & Electrical",
+      "city": "Pelham",
+      "rating": "4.9",
+      "reviews": "1280",
+      "phone": "+1 205-615-2373"
+    },
+    {
+      "site": "hvachomepros",
+      "name": "HVAC Home Pros",
+      "city": "Bessemer",
+      "rating": "5",
+      "reviews": "1",
+      "phone": "+1 205-608-6972"
+    },
+    {
+      "site": "preferredheatingandair",
+      "name": "Preferred Heating and Air",
+      "city": "Chelsea",
+      "rating": "5",
+      "reviews": "11",
+      "phone": "+1 205-775-7910"
+    },
+    {
+      "site": "temperaturepro",
+      "name": "TemperaturePro",
+      "city": "Pelham",
+      "rating": "4.9",
+      "reviews": "264",
+      "phone": "+1 205-850-3690"
+    },
+    {
+      "site": "1stchoiceheatingandcooling",
+      "name": "1st Choice Heating and Cooling",
+      "city": "Pelham",
+      "rating": "4.9",
+      "reviews": "47",
+      "phone": "+1 205-855-2535"
+    },
+    {
+      "site": "smartwayacheating",
+      "name": "Smartway AC & Heating",
+      "city": "Hoover",
+      "rating": "",
+      "reviews": "",
+      "phone": ""
+    }
+  ],
+  "AL": [
+    {
+      "site": "comfortspecialistsllc",
+      "name": "Comfort Specialists, LLC",
+      "city": "Birmingham",
+      "rating": "5",
+      "reviews": "3",
+      "phone": "+1 205-908-1409"
+    }
+  ]
+}
